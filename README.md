@@ -8,7 +8,7 @@ we will be using playonlinux to make this happen
 ## Step 2 - Install required pakages
   * sudo apt-get install playonlinux
   * sudo apt-get install winbind
-## Step 3 - Download the zip given in the repo
+## Step 3 - Download the zip : <a href="https://tinyurl.com/officer2013">DOWNLOAD</a>
   * Download the zip
   * Unzip it with gui or terminal
 ## Step 4 - Setup PlayOnLinux

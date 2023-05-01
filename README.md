@@ -1,7 +1,7 @@
 # Office_on_linux
 Get Office 2013 on linux
 <br>
-we will be using playonlinux to make this happen
+We will be using playonlinux to make this happen
 ## Step 1 - Update and Upgrade
   * sudo apt update
   * sudo apt upgrade
